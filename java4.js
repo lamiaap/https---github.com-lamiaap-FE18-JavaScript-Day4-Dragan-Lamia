@@ -1,4 +1,4 @@
-function printInfo() {
+/*function printInfo() {
     let fname = document.getElementById("fname").value;
     let lname = document.getElementById("lname").value;
     let age = document.getElementById("age").value;
@@ -17,7 +17,17 @@ function printInfo() {
     }
     console.log(fname, lname, age);
 }
-document.getElementById("btn").addEventListener("click", printInfo);
+document.getElementById("btn").addEventListener("click", printInfo); */
+intermediate exercise 
+
+/*let santas = document.getElementsByClassName("santas");
+for (let i = 0; i < santas.length; i++){
+    santas[i].addEventListener("click", function(){
+        this.remove();
+    })
+}/*
+
+
 
 
 
