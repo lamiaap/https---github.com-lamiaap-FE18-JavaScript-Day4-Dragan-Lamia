@@ -18,27 +18,24 @@
     console.log(fname, lname, age);
 }
 document.getElementById("btn").addEventListener("click", printInfo); */
-intermediate exercise 
+// intermediate exercise 
 
 /*let santas = document.getElementsByClassName("santas");
 for (let i = 0; i < santas.length; i++){
     santas[i].addEventListener("click", function(){
         this.remove();
     })
-}/*
+}*/
 
 
-
-
-
-
-
-
-
-
-
-
-
+/*const button = document.querySelector("button");
+button.addEventListener("click", function() {
+  const r = Math.floor(Math.random() * 256);
+  const g = Math.floor(Math.random() * 256);
+  const b = Math.floor(Math.random() * 256);
+  document.body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
+});
+*/
 
 
 
