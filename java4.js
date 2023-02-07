@@ -37,6 +37,14 @@ button.addEventListener("click", function() {
 });
 */
 
+// let circle=document.getElementById("circle");
+// circle.addEventListener("mouseover",function(){circle.innerHTML="you are in the circle"});
+// circle.addEventListener("mouseleave",function(){
+//     circle.innerHTML="you are out the circle";
+//     circle.style.backgroundColor="pink"
+// })
+// circle.addEventListener("click",function(){circle.style.backgroundColor="purple"});
+// circle.addEventListener("dblclick",function(){circle.style.backgroundColor="green"});
 
 
 
